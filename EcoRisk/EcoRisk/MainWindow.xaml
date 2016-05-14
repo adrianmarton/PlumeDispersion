@@ -1,0 +1,9 @@
+﻿<Window x:Class="EcoRisk.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EcoRisk" Height="380" Width="710">
+    <Grid>
+        <Button Content="Generate" HorizontalAlignment="Left" Margin="321,155,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
